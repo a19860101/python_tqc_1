@@ -5,3 +5,5 @@
     
     #Value: (後方有一空白格)
     value = input("Value: ")
+
+
