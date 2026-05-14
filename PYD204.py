@@ -1,0 +1,20 @@
+# TODO
+
+a = int(input())
+b = int(input())
+o = input()
+
+if o == "+":
+    print(a+b)
+elif o == "-":
+    print(a - b)
+elif o == "*":
+    print(a * b)
+elif o == "/":
+    print(a / b)
+elif o == "//":
+    print(a // b)
+elif o == "%":
+    print(a % b)
+
+
