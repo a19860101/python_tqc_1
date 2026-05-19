@@ -16,3 +16,6 @@ print(''.join(s))
 
 # 4
 # print(''.join(reversed(str(int(input())))))
+
+# 5
+print(input()[::-1])
